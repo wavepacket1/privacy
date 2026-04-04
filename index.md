@@ -1,28 +1,28 @@
-# Privacy Policy
+# プライバシーポリシー
 
-**脳内将棋トレーニング** (Blind Shogi Training)
+**脳内将棋トレーニング**
 
-Last updated: April 4, 2026
+最終更新日：2026年4月4日
 
-## Overview
+## 概要
 
-脳内将棋トレーニング does not collect, store, or transmit any personal data. All app functionality operates entirely on your device.
+脳内将棋トレーニングは、個人データの収集・保存・送信を一切行いません。すべての機能はお使いのデバイス上のみで動作します。
 
-## Data Collection
+## データの収集について
 
-We do not collect any data from users. Specifically:
+本アプリはユーザーのデータを収集しません。具体的には以下の通りです：
 
-- No personal information is collected
-- No usage data or analytics are collected
-- No data is shared with third parties
-- No advertising SDKs or tracking tools are used
+- 個人情報の収集なし
+- 利用状況の分析・収集なし
+- 第三者へのデータ提供なし
+- 広告SDKやトラッキングツールの使用なし
 
-## Local Storage
+## 端末内への保存について
 
-The app stores your difficulty settings (display time, move count, move speed) locally on your device using iOS standard storage (UserDefaults). This data never leaves your device.
+難易度設定（表示時間・手数・指し手速度）は、iOSの標準機能（UserDefaults）を使ってお使いのデバイス内にのみ保存されます。このデータが外部に送信されることはありません。
 
-## Contact
+## お問い合わせ
 
-If you have any questions about this privacy policy, please contact:
+本プライバシーポリシーに関するご質問は、以下までご連絡ください：
 
 mr.aizakku3@gmail.com
